@@ -1,7 +1,7 @@
 # cuda-intro
 This repo contains a simple program that adds two vectors in parallel using cuda. The original source material can be found here https://developer.nvidia.com/blog/even-easier-introduction-cuda/. 
 ## Tools and requirements
-To compile the code in this repo, will need a c/c++ compiler like `gcc` or `g++` along with cuda and nvidia-cuda-toolkit. Information about setting up and configuring CUDA to work on your machine can be found here:
+To compile the code in this repo, you will need a c/c++ compiler like `gcc` or `g++` along with cuda and nvidia-cuda-toolkit. Information about setting up and configuring CUDA to work on your machine can be found here:
 
 - [Installation Guide for Linux](https://docs.nvidia.com/cuda/cuda-installation-guide-linux/index.html)
 - [CUDA Quick Start Guide](https://docs.nvidia.com/cuda/cuda-quick-start-guide/index.html)
